@@ -44,14 +44,16 @@
 * ~~Textures on GUI.~~
 * ~~Frontend manager for textures and common GUI objects.~~
 * ~~Allow camera rotations around world coordinates, so 'upside down' doesnt happen.~~
-* Add limits to rotation so we dont go over and under the max/min up-axis.
+* ~~Add full GUI skin textures and control to change 'theme' on GUI.~~
+* ~~Add limits to rotation so we dont go over and under the max/min up-axis.~~
 * Enable cross platform compiling and support, linux, mac
 * Convert shaders over to be more unified.
 * Add audio and music playback.
 * Add gamepad support.
 * Add scenery manager.
 * Create basic front-end
-* Add in character creator.
+* Add character creator and customization from front-end.
 * Add voxel editor.
-* Add full GUI skin textures and control to change 'theme' on GUI.
 * Add texture support for voxel blocks.
+* Add different camera modes, option toggle on GUI.
+* Add player camera controls.
